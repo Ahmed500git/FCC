@@ -1,0 +1,40 @@
+# What Is JavaScript?, and How Does It Work with HTML & CSS?
+
+JavaScript is a powerful programming language that brings interactivity and dynamic behavior to websites..
+
+While HTML and CSS are used to structure content and style elements on a page, JavaScript goes beyond those by enabling more complex functionality, such as:
+* Handling user input
+* Animating elements
+* Building full web applications
+
+For example, when you click a button, submit a form, or hover over a menu, JavaScript determines how the page behaves.
+
+## How the Three Technologies Work Together
+
+Here's an example of how these three work together in a single file:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    h1 {
+      color: red;
+      background-color: white;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello, World!</h1>
+  <button onclick="alert('Button clicked!')">Click me</button>
+</body>
+</html>
+```
+
+In this example:
+1. **HTML** is used to define the content: a heading (an `<h1>` element) and a button (the `<button>` element).
+2. **CSS** is used to apply styles to the heading, such as making the text red and background color white. 
+3. **JavaScript** is used to display an alert message when the button is clicked.
+
+### Summary
+To sum up, **HTML provides structure**, **CSS adds styling**, and **JavaScript enables behavior**, creating a complete and interactive web experience.
