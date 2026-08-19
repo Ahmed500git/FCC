@@ -5,9 +5,9 @@
 
 # opening tag & closing tag
 
-* an opening tag must look like `<_>``
-* a closing tag must look like `</_>``
-* a void tag(also called self closing tag) must look like `<_>` or `<_ />``
+* an opening tag must look like `<_>`
+* a closing tag must look like `</_>`
+* a void tag(also called self closing tag) must look like `<_>` or `<_ />`
 
 # header tag
 
